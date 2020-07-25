@@ -1,0 +1,91 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\budget-app_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\icons[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\icons[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\icons\icon.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\icons\icon.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Main$$anon$1$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\Main$$anon$1$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Main$$anon$2$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\Main$$anon$2$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Main$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\Main$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\model\Category.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\model\Category.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\model\IncomeCategory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\model\IncomeCategory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\model\Overview.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\model\Overview.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\model\SpendingCategory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\model\SpendingCategory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\model\Transaction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\model\Transaction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\model\Transaction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\model\Transaction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\util\DateUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\util\DateUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\util\DateUtil$DateFormater.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\util\DateUtil$DateFormater.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\util\DateUtil$StringFormater.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\util\DateUtil$StringFormater.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\util\DateUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\util\DateUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\util\NumberUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\util\NumberUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\util\NumberUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\util\NumberUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\view\Overview.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\view\Overview.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\view\OverviewController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\view\OverviewController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\view\OverviewController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\view\OverviewController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\view\OverviewController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\view\OverviewController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\view\RootController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\view\RootController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\view\RootController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\view\RootController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\view\TransactionEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\view\TransactionEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\view\TransactionEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\view\TransactionEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\view\TransactionEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\view\TransactionEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\view\TransactionEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\budget\view\TransactionEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	finalAssignment[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\finalAssignment[0m
+[0m[[0m[0mdebug[0m] [0m[0m	finalAssignment\icons[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\finalAssignment\icons[0m
+[0m[[0m[0mdebug[0m] [0m[0m	finalAssignment\icons\icon.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\finalAssignment\icons\icon.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	finalAssignment\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\finalAssignment\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	finalAssignment\view\Overview.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\finalAssignment\view\Overview.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	finalAssignment\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\finalAssignment\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	finalAssignment\view\TransactionEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\finalAssignment\view\TransactionEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Icons[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\target\scala-2.12\classes\Icons[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

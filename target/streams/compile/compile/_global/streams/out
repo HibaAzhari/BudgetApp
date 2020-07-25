@@ -1,0 +1,14 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\src\main\scala\budget\model\Category.scala:5:21: imported `Transaction' is permanently hidden by definition of object Transaction in package model[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport budget.model.Transaction[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\src\main\scala\budget\model\IncomeCategory.scala:4:21: imported `Transaction' is permanently hidden by definition of object Transaction in package model[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport budget.model.Transaction[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\src\main\scala\budget\model\Overview.scala:5:21: imported `Transaction' is permanently hidden by definition of object Transaction in package model[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport budget.model.Transaction[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\User\Desktop\16065005 - Hiba Azhari\BudgetApp\src\main\scala\budget\model\SpendingCategory.scala:4:21: imported `Transaction' is permanently hidden by definition of object Transaction in package model[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport budget.model.Transaction[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning (since 8.0.60-R10); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0m5 warnings found[0m
